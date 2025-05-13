@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White Shirt",
+    "brand": "UrbanWear",
+    "description": "A crisp white shirt made from 100% cotton, perfect for both formal and casual occasions.",
+    "price": 29.99,
+    "rating": 4.5,
+    "image": "images/shirts/classic-white.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Slim Fit Denim Shirt",
+    "brand": "BlueStone",
+    "description": "Stylish denim shirt with a slim fit and button-down design.",
+    "price": 39.99,
+    "rating": 4.2,
+    "image": "images/shirts/denim-slimfit.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Checked Casual Shirt",
+    "brand": "StyleMania",
+    "description": "Comfortable cotton shirt with a blue and black checked pattern.",
+    "price": 24.99,
+    "rating": 4.0,
+    "image": "images/shirts/checked-casual.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Floral Print Shirt",
+    "brand": "TropiCool",
+    "description": "Bright floral shirt perfect for summer vacations and beach parties.",
+    "price": 34.99,
+    "rating": 4.3,
+    "image": "images/shirts/floral-print.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Formal Light Blue Shirt",
+    "brand": "ExecutiveLine",
+    "description": "Elegant light blue shirt ideal for office and meetings.",
+    "price": 27.50,
+    "rating": 4.6,
+    "image": "images/shirts/formal-blue.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Graphic Tee Shirt",
+    "brand": "YouthVibe",
+    "description": "Trendy T-shirt with bold graphic prints for a streetwear look.",
+    "price": 19.99,
+    "rating": 4.1,
+    "image": "images/shirts/graphic-tee.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Linen Mandarin Collar Shirt",
+    "brand": "EcoThread",
+    "description": "Breathable linen shirt with a mandarin collar for a relaxed yet sharp style.",
+    "price": 36.00,
+    "rating": 4.4,
+    "image": "images/shirts/linen-mandarin.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Oxford Button-Down Shirt",
+    "brand": "Timeless",
+    "description": "Classic Oxford shirt with button-down collar and a tailored fit.",
+    "price": 32.95,
+    "rating": 4.7,
+    "image": "images/shirts/oxford-buttondown.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Striped Polo Shirt",
+    "brand": "CasualEdge",
+    "description": "Cotton polo with bold stripes and a comfortable fit.",
+    "price": 22.49,
+    "rating": 4.0,
+    "image": "images/shirts/striped-polo.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Black Muscle Fit Shirt",
+    "brand": "FlexWear",
+    "description": "Stretchable black shirt designed for athletic builds.",
+    "price": 33.99,
+    "rating": 4.5,
+    "image": "images/shirts/muscle-fit-black.jpg"
+  }
+]
